@@ -1,0 +1,7 @@
+﻿  Fonctions0443181.cpp
+C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Formes0443181\Fonctions0443181.cpp(37,6): warning C4101: 'nombre' : variable locale non référencée
+C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Formes0443181\Fonctions0443181.cpp(91,4): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Formes0443181\Fonctions0443181.cpp(93,4): warning C4551: liste d'arguments manquante dans l'appel de fonction
+C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Formes0443181\Fonctions0443181.cpp(499,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Formes0443181\Fonctions0443181.cpp(101): warning C4715: 'validerMenu' : les chemins de contrôle ne retournent pas tous une valeur
+  Formes0443181.vcxproj -> C:\Users\maite\OneDrive\Desktop\SolutionTpMaiteFaubert\Debug\Formes0443181.exe
